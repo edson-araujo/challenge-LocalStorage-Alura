@@ -4,7 +4,7 @@
 </h2>
 
 <div align="center">
-  ![image](https://user-images.githubusercontent.com/79815326/202333620-1717788a-f6c8-44ff-9631-444ba8de2c52.png)
+  <img alt="screen" src="./img/img-screen.png" />
 </div>
 
 <br/>
