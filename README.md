@@ -19,4 +19,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias
 ## Features
 
 **📖 CRUD simples**
+
 **📱 Salvamento no LocalStorage**
