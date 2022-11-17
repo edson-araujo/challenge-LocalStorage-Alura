@@ -1,6 +1,6 @@
 <h2 align="center">
   Challenge usando LocalStorage<br/>
-  <a href="[http://soumya-jit.tech/](https://edson-araujo.github.io/challenge-LocalStorage-Alura/)" target="_blank">Acesse</a>
+  <a href="https://edson-araujo.github.io/challenge-LocalStorage-Alura/" target="_blank">Acesse</a>
 </h2>
 
 <div align="center">
